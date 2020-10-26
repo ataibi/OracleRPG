@@ -1,0 +1,19 @@
+{
+  "name": "oraclerpg",
+  "version": "1.0.0",
+  "description": "An oracle for your solo RPG sessions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ataibi/OracleRPG.git"
+  },
+  "author": "ataibi",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/ataibi/OracleRPG/issues"
+  },
+  "homepage": "https://github.com/ataibi/OracleRPG#readme"
+}
