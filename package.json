@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ataibi/OracleRPG/issues"
   },
-  "homepage": "https://github.com/ataibi/OracleRPG#readme"
+  "homepage": "https://github.com/ataibi/OracleRPG#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
 }
